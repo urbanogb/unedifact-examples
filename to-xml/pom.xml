@@ -25,7 +25,6 @@
     </parent>
     <name>Milyn Smooks Example - UN/EDIFACT - To XML</name>
     <artifactId>milyn-smooks-example-unedifact-to-xml</artifactId>
-
     <dependencies>
         <dependency>
             <groupId>org.milyn</groupId>
